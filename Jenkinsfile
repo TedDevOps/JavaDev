@@ -10,7 +10,7 @@ pipeline{
       steps{
         
         
-        echo "Hello what ajkujuy worlnmd"
+        echo "What a world we live in"
       }
       
       
